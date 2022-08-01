@@ -15,7 +15,7 @@ GOF Design Patterns & OOP areas with willingness to learn new technologies and l
 ## KEY SKILLS
 
 ### **Back End**:
-* PHP: 5, 7, 8, Laravel, Lumen
+* PHP: 5, 7, 8, Laravel, Lumen, Symfony
 * C# (as an additional language)
 
 ### **Front End**:
