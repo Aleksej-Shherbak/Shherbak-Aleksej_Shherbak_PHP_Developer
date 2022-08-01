@@ -19,7 +19,7 @@ GOF Design Patterns & OOP areas with willingness to learn new technologies and l
 * C# (as an additional language)
 
 ### **Front End**:
-* Vue, CSS, HTML
+* Vue (stronger), CSS, HTML, React (familiar)
 * JavaScript, ES6, REST
 * jQuery, Bootstrap
 
