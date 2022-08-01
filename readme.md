@@ -85,8 +85,9 @@ http://seventest.ru/
 * Support legacy web-application using LAMP stack and Drupal 6. 
 
 ## PROJECTS
+* https://www.apvkvik.dk (creating new features according to customer's demands using Symfony)
 * https://payforinstall.ru (maintains critical features using Codeigniter)
-* https://new.rodovoederevo.ru/ (implementing different backend features and background tasks using .NET Core 3.1 and C#)
+* https://new.rodovoederevo.ru (implementing different backend features and background tasks using .NET Core 3.1 and C#)
 * https://mts.ru (Maintaining legacy parts of the website, creating new features according to business demands)
 * https://skylink.ru (Support and customization of the existing features)
 
