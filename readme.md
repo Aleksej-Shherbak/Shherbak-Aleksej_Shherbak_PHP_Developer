@@ -11,7 +11,7 @@ GOF Design Patterns & OOP areas with willingness to learn new technologies and l
 * **Telegram**: +7-911-911-4396
 * **Phone**: +7-911-911-4396
 * **Email**: aleksej.shherbak@yandex.ru
-* **LinkedIn: https://www.linkedin.com/in/aleksej-shherbak-538914165/
+* **LinkedIn**: https://www.linkedin.com/in/aleksej-shherbak-538914165/
 
 ## KEY SKILLS
 
