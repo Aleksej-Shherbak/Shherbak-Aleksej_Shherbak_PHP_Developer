@@ -8,9 +8,10 @@ GOF Design Patterns & OOP areas with willingness to learn new technologies and l
 [>> PDF version <<](./Aleksej_Shherbak_PHP_Developer.pdf)
 
 ## CONTACTS
+* **Telegram**: +7-911-911-4396
 * **Phone**: +7-911-911-4396
 * **Email**: aleksej.shherbak@yandex.ru
-* LinkedIn: https://www.linkedin.com/in/aleksej-shherbak-538914165/
+* **LinkedIn: https://www.linkedin.com/in/aleksej-shherbak-538914165/
 
 ## KEY SKILLS
 
@@ -35,7 +36,7 @@ GOF Design Patterns & OOP areas with willingness to learn new technologies and l
 ### **DevOps**:
 * Familiar with Gitlab CI, Jenkins, Github actions, Azure devops
 
-### **Additional instruments and skils**:
+### **Additional instruments and skills**:
 * Git, Rest, xDebug, Docker / docker-compose, GoF Design Patterns, OOP
 
 ## WORK HISTORY
